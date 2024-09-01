@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Tech I use:
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,docker,html,vscode,ruby,rails,javascript,bootstrap,tailwind,heroku" />
   </a>
