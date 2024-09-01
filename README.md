@@ -2,7 +2,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sercomanens/sercomanens/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Sercomanens/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
 
 <p align="center">
   <a href="https://skillicons.dev">
