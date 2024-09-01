@@ -1,7 +1,9 @@
 <p align="left">My Profile!</p>
 
 ###
-<img src="https://raw.githubusercontent.com/sercomanens/sercomanens/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/sercomanens/sercomanens/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <p align="center">
