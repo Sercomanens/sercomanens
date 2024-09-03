@@ -1,5 +1,5 @@
 <p align="left">My Profile!</p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=green&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 ###
 <img src="https://raw.githubusercontent.com/sercomanens/sercomanens/output/snake.svg" alt="Snake animation" />
