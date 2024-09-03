@@ -5,7 +5,8 @@
 
 ###
 
-
+<h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
+<p align="left">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,css,docker,html,vscode,ruby,rails,javascript,bootstrap,postgresql,tailwind,heroku" />
