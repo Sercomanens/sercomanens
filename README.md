@@ -1,5 +1,4 @@
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20my%20profile%20&fontSize=60&-nl-Laurent%20Sercomanens%20Full%20Stack%20Web%20Developer&fontSize=20" />](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Laurent%20Sercomanens&stroke=545454&descAlign=81&descAlignY=45&descSize=22&desc=Full%20Stack%20Web%20Developer&fontAlignY=24&fontSize=80&reversal=false&strokeWidth=2&textBg=false)
-
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Laurent%20Sercomanens&descAlign=81&descAlignY=45&descSize=22&desc=Full%20Stack%20Web%20Developer&fontAlignY=24&fontSize=80&reversal=false&strokeWidth=0&textBg=false
 ###
 <img src="https://raw.githubusercontent.com/sercomanens/sercomanens/output/snake.svg" alt="Snake animation" />
 
