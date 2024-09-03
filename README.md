@@ -20,6 +20,6 @@
 
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[Sercomanens]&theme=github_dark" alt="[Laurent Sercomanens]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[sercomanens]&theme=github_dark" alt="[Laurent Sercomanens]'s GitHub Stats"/>
 </div>
 ###
