@@ -3,6 +3,8 @@
 
 ## ► Hello, I'm Laurent, a Ruby on Rails full stack Web Developer.
 
+<img src="https://raw.githubusercontent.com/sercomanens/sercomanens/output/snake.svg" alt="Snake animation" />
+
 <h2> 🚀 &nbsp;Languages and tools:</h2>
 <p align="left">
 <p align="center">
@@ -12,7 +14,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/sercomanens/sercomanens/output/snake.svg" alt="Snake animation" />
+
 
 
 
