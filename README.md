@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Laurent%20Sercomanens&descAlign=81&descAlignY=45&descSize=22&desc=Jr.%20Full%20Stack%20Web%20Developer&fontAlignY=24&fontSize=80&reversal=false&strokeWidth=0&textBg=false"/>
 
 
-## ► Hello, I'm Laurent, a Ruby on Rails jr. full stack Web Developer.
+## ► Hi, I'm Laurent, a Ruby on Rails jr. full stack Web Developer.
 
 <img src="https://raw.githubusercontent.com/sercomanens/sercomanens/output/snake.svg" alt="Snake animation" />
 
