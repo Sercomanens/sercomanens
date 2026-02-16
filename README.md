@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Laurent%20Sercomanens&descAlign=81&descAlignY=45&descSize=22&desc=Full%20Stack%20Web%20Developer&fontAlignY=24&fontSize=80&reversal=false&strokeWidth=0&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Laurent%20Sercomanens&descAlign=81&descAlignY=45&descSize=22&desc=%20Developer&fontAlignY=24&fontSize=80&reversal=false&strokeWidth=0&textBg=false"/>
 
 
-## ► Hi, I'm Laurent, a Ruby on Rails full stack Web Developer.
+## ► Hi, I'm Laurent, a Ruby on Rails Web Developer.
 
 <img src="https://raw.githubusercontent.com/sercomanens/sercomanens/output/snake.svg" alt="Snake animation" />
 
@@ -9,7 +9,7 @@
 <p align="left">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,css,html,vim,vscode,ruby,rails,bootstrap,postgresql,sqlite,tailwind,heroku" />
+    <img src="https://skillicons.dev/icons?i=git,github,css,html,vim,vscode,ruby,rails,bootstrap,tailwind,heroku" />
   </a>
 </p>
 
