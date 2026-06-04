@@ -18,7 +18,7 @@
 
 
 
-###
+<!-- ###
 <div align="center">
 
 | 👉🏻       | Let's connect!                                   |
@@ -26,4 +26,4 @@
 | [<img alt="Sercomanens Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Sercomanens_dev) | [@Sercomanens_dev](https://twitter.com/Sercomanens_dev) |
 | [<img alt="Sercomanens LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/Sercomanens/) | [Laurent Sercomanens](https://www.linkedin.com/in/Sercomanens/) |
 | [<img alt="Sercomanens.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sercomanens.dev/) | [sercomanens.dev](https://sercomanens.dev/) |
-</div>
+</div> -->
