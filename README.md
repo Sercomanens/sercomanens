@@ -5,13 +5,13 @@
 
 <img src="https://raw.githubusercontent.com/sercomanens/sercomanens/output/snake.svg" alt="Snake animation" />
 
-<h2> 🚀 &nbsp;Languages and tools:</h2>
+<!-- <h2> 🚀 &nbsp;Languages and tools:</h2>
 <p align="left">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,css,html,vim,vscode,ruby,rails,bootstrap,tailwind,heroku" />
   </a>
-</p>
+</p> -->
 
 
 
